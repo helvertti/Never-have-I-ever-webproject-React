@@ -19,7 +19,7 @@ app.use(bodyParser.json()); // for reading JSON
 var con = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "uosh6quu",
+    password: "password",
     database: "neverhaveiever"
 });
 
