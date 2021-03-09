@@ -1,0 +1,65 @@
+ul {
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    float: left;
+    padding-right: 5px;
+}
+
+.nav{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.navbar{
+    background-color: #dddddd;
+    width: 100%;
+}
+
+.logout{
+    float: right;
+}
+
+.login-wrapper {
+    /*display: flex;
+    flex-direction: column;*/
+    align-items: center;
+
+    padding-top: 30px;
+}
+
+.login-block{
+    padding-left: 30%;
+    padding-right: 20px;
+    width: 40%;
+    float: left;
+
+    /*background-color: green;*/
+}
+
+.signin-block{
+    padding-right: 20%;
+    padding-left: 10%;
+    float: left;
+    width: 40%;
+    /*background-color: red;*/
+}
+
+.vl {
+    float: left;
+    border-right: 6px solid deepskyblue;
+    height: 400px;
+    width: 10%;
+
+    /*background-color: blue;*/
+}
+
+.title{
+    width: 100%;
+    padding-left: 40%;
+}
